@@ -1,7 +1,13 @@
+
+![Screenshot 2025-02-04 160533](https://github.com/user-attachments/assets/a65f917e-b4ed-467e-9476-3c8320644635)
+
+
+
+
 **Stock Market Risk Analysis and Trend Prediction**
 
 **Project Overview**
-This project analyzes the historical stock data of major companies—Apple, Microsoft, Tesla, Google, and Amazon—to uncover trends, assess risks, and provide insights into market performance. The dataset from Yahoo Finance includes daily metrics such as opening, closing, high and low prices, and trading volumes. Through SQL and Power BI, the project extracts actionable insights and visualizes key patterns for informed decision-making.
+This project analyzes the historical stock data of major companies—Apple, Microsoft, Tesla, Google, and Amazon—to uncover trends, assess risks, and provide insights into market performance. The dataset from Yahoo Finance includes daily metrics such as opening, closing, high and low prices, and trading volumes. The project extracts actionable insights through SQL and Power BI and visualizes key patterns for informed decision-making.
 
 
 SQL-Based Insights:
